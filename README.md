@@ -43,10 +43,3 @@ We employ **Principal Component Analysis (PCA)** and compare it with an **altern
 - Discusses real-world implications in **AI, deep learning, and big data**.
 
 ---
-
-## 📌 How to Run the Notebook  
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/KaumudiRRawal/fashion-mnist-dim-reduction.git
-
